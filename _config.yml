@@ -2,8 +2,8 @@
 remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
-title: 'My name'
-description: 'I am amazing.'
+title: 'Johannes Binder'
+description: 'Freelance Software Developer'
 
 # Images
 avatar: 'avatar.jpg'
@@ -12,13 +12,13 @@ favicon: 'favicon.ico'
 
 # Online profiles
 #dribbble: 'mydribbble'
-facebook: 'myfacebook'
-twitter: 'mytwitter'
-#linkedin: 'mylinkedin'
-instagram: 'myinsta'
+#facebook: 'myfacebook'
+#twitter: 'mytwitter'
+linkedin: 'johannes-binder-4923261b5'
+#instagram: 'myinsta'
 #pinterest: 'mypinterest'
-youtube: 'myyoutube'
-github-user: 'mygithub'
+#youtube: 'myyoutube'
+github-user: 'jbinder'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -28,12 +28,12 @@ github-user: 'mygithub'
 #reddit: ''
 #rubygems: ''
 #medium:  ''
-tumblr: 'mytumblr'
-weibo: 'myweibo'
-vk: 'myvk'
-blog_url: 'myblog.blog.com'
-email: 'hello@example.com'
-messenger: 'myfbchat'
+#tumblr: 'mytumblr'
+#weibo: 'myweibo'
+#vk: 'myvk'
+#blog_url: 'myblog.blog.com'
+email: 'j.binder.x@gmail.com'
+#messenger: 'myfbchat'
 
 social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
 
